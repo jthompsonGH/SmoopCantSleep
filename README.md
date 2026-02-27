@@ -7,3 +7,4 @@
 - **Sounds:** [SFXR](https://www.drpetter.se/project_sfxr.html)
 - **Artwork:** Aseprite
 - **Music:** FL Studio
+- Didn't learn about the importance of Git until after finishing the project, so much of the project ended up being lost besides the code unfortunately. Future Unity projects should be playable when I upload them
